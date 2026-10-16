@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b670d3256dfcde543ab63ad36c896a0f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 402280
+  packageName: Free Pack - VR Hands
+  packageVersion: 1.0
+  assetPath: Assets/PolyOne/Free VR Hands/Animation/Free VR Hands_Controler.controller
+  uploadId: 980304
